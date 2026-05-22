@@ -4,7 +4,7 @@
 
 ## 命名规则
 
-- 仓库名直接使用论文缩写，例如 `dpsn`、`pgdts`。
+- 仓库名直接使用论文缩写，例如 `DPSN`、`PGDTS`。
 - 仓库描述记录作者、研究方向和归档内容。
 - 仓库标签用于检索，例如 `archive`、`paper`、`author-*`、`alumni-*` 和 `direction-*`。
 
@@ -12,10 +12,10 @@
 
 | Year | Author | Direction | Repository | 会议/期刊 | Notes |
 |---|---|---|---|---|---|
-| 2026 | 宋佑祺 | Tactile paving and obstacle joint segmentation | [dpsn](https://github.com/ECNUGqh/dpsn) | IROS 2025 | LaTeX source and final PDF |
-| 2026 | 宋佑祺 | Progressive perception-guided decision training | [pgdts](https://github.com/ECNUGqh/pgdts) | ChinaMM 2026 under review | LaTeX source, figures, supplementary materials, and PDFs |
-| 2026 | 戚媛媛 | Text-driven stylized motion generation | [cmld](https://github.com/ECNUGqh/cmld) | ChinaMM 2026 under review | Formerly `StyleMotion`; paper code |
-| 2026 | 戚媛媛 | Personality-consistent text-to-motion generation | [pcmg](https://github.com/ECNUGqh/pcmg) | ICME 2026 | Formerly `PCMG`; paper code and accepted manuscript |
+| 2025 | 宋佑祺 | Tactile paving and obstacle joint segmentation | [DPSN](https://github.com/ECNUGqh/DPSN) | IROS 2025 | LaTeX source and final PDF |
+| 2026 | 宋佑祺 | Progressive perception-guided decision training | [PGDTS](https://github.com/ECNUGqh/PGDTS) | ChinaMM 2026 under review | LaTeX source, figures, supplementary materials, and PDFs |
+| 2026 | 戚媛媛 | Text-driven stylized motion generation | [CMLD](https://github.com/ECNUGqh/CMLD) | ChinaMM 2026 under review | Formerly `StyleMotion`; paper code |
+| 2026 | 戚媛媛 | Personality-consistent text-to-motion generation | [PCMG](https://github.com/ECNUGqh/PCMG) | ICME 2026 | Formerly `PCMG`; paper code and accepted manuscript |
 
 ## 维护方式
 
