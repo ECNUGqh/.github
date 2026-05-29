@@ -10,12 +10,12 @@
 
 ## 论文
 
-| Year | Author | Direction | Repository | 会议/期刊 | Notes |
-|---|---|---|---|---|---|
-| 2025 | 宋佑祺 | Tactile paving and obstacle joint segmentation | [DPSN](https://github.com/ECNUGqh/DPSN) | IROS 2025 | LaTeX source and final PDF |
-| 2026 | 宋佑祺 | Progressive perception-guided decision training | [PGDTS](https://github.com/ECNUGqh/PGDTS) | ChinaMM 2026 under review | LaTeX source, figures, supplementary materials, and PDFs |
-| 2026 | 戚媛媛 | Text-driven stylized motion generation | [CMLD](https://github.com/ECNUGqh/CMLD) | ChinaMM 2026 under review | Formerly `StyleMotion`; paper code |
-| 2026 | 戚媛媛 | Personality-consistent text-to-motion generation | [PCMG](https://github.com/ECNUGqh/PCMG) | ICME 2026 | Formerly `PCMG`; paper code and accepted manuscript |
+| Year | Author | Direction | Repository | PDF | 会议/期刊 | Notes |
+|---|---|---|---|---|---|---|
+| 2025 | 宋佑祺 | Tactile paving and obstacle joint segmentation | [DPSN](https://github.com/ECNUGqh/DPSN) | - | IROS 2025 | LaTeX source and final PDF |
+| 2026 | 宋佑祺 | Progressive perception-guided decision training | [PGDTS](https://github.com/ECNUGqh/PGDTS) | - | ChinaMM 2026 under review | LaTeX source, figures, supplementary materials, and PDFs |
+| 2026 | 戚媛媛 | Text-driven stylized motion generation | [CMLD](https://github.com/ECNUGqh/CMLD) | [PDF](https://github.com/ECNUGqh/CMLD/blob/main/paper/CMLD.pdf) | ChinaMM 2026 under review | Formerly `StyleMotion`; paper code |
+| 2026 | 戚媛媛 | Personality-consistent text-to-motion generation | [PCMG](https://github.com/ECNUGqh/PCMG) | [PDF](https://github.com/ECNUGqh/PCMG/blob/code/paper/PCMG.pdf) | ICME 2026 | Formerly `PCMG`; paper code and accepted manuscript |
 
 ## 项目
 
